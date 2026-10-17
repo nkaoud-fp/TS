@@ -1,0 +1,27 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-DlgOrder]
+Count=4
+Dlg0={9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-SdWelcomeMaint-0
+Dlg1={9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-MessageBox-0
+Dlg2={9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-SdFinish-0
+Dlg3={9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-SdFinishReboot-0
+[{9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-SdWelcomeMaint-0]
+Result=303
+[{9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-MessageBox-0]
+Result=6
+[Application]
+Name=GTS DataSync
+Version=
+Company=DENSO CORPORATION
+Lang=0409
+[{9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=0
+[{9DC6894E-CC4B-435C-BC84-DD7FBCA5A298}-SdFinishReboot-0]
+Result=1
+BootOption=0
